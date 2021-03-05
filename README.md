@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Veggie Planet](https://veggieplanet.netlify.app/)
 
-- 🌱 I’m currently learning **GraphQL and Redux**
+- 🌱 I’m currently learning **Vue.js** and improving my **MongoDB** skills
 
 - 👨‍💻 All of my projects are available at [https://www.sergiord.com/](https://www.sergiord.com/)
 

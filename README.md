@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sergio Ros.</h1>
 <h3 align="center">Full Stack Developer.</h3>
 
-[comment]: <> (- 🔭 I’m currently working on [Veggie Planet](https://veggieplanet.netlify.app/))
+- 🔭 I’m currently working on [Veggie Planet](https://veggieplanet.netlify.app/)
 
 - 🌱 I’m currently learning **Vue.js** and improving my **MongoDB** skills
 
